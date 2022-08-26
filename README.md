@@ -4,7 +4,9 @@
 </h1>
 
 <p>
-  <a href="https://www.instagram.com/tim_chiang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a?
+  <a href="https://www.instagram.com/tim_chiang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <br>
   <a href="https://twitter.com/TimJiang0106"><img src="https://img.shields.io/badge/devanshkaushik__-1ca0f1?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yao-ting-chiang/"><img src="https://img.shields.io/badge/kaushik--devansh-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 </p>
