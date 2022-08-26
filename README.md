@@ -1,6 +1,5 @@
 <h1>
-  Hi, I'm Tim Chiang
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Tim Chiang
 </h1>
 
 <p>
