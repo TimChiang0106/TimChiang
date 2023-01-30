@@ -12,8 +12,6 @@
 - Currently working as Cloud Support Engineer at CloudMile 
 - Experience with GCP, Python, App, Networking
 
-I believe that to change the world we need to build it ourselves. We cannot wait for the government to force it, and we cannot wait for big corporations to innovate. To make this world better, we need to develop the products, technologies, and solutions that make the current standard obsolete. I believe dedication to this is what makes great products and great people. I was trying to create an App with my friend for almost one year after I graduated, it was an amazing experience. My responsibility is to develop our product. Created an android app first, then iOS, and chose Firebase to be our backend. Even though our experience is not enough to release our app, it still is a good journey.
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=TimChiang0106)
