@@ -13,7 +13,4 @@
 - Experience with GCP, Python, App develop, Networking
 - Assisting customers in troubleshooting Google Cloud services and Google Workspace, providing clear information to clients on product features, functionality, and best practices.
 
-
----
-
 ![](https://komarev.com/ghpvc/?username=TimChiang0106)
