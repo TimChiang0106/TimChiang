@@ -10,7 +10,9 @@
 </p>
 
 - Currently working as Cloud Support Engineer at CloudMile 
-- Experience with GCP, Python, App, Networking
+- Experience with GCP, Python, App develop, Networking
+- Assisting customers in troubleshooting Google Cloud services and Google Workspace, providing clear information to clients on product features, functionality, and best practices.
+
 
 ---
 
