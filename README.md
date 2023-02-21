@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/yao-ting-chiang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-- Currently working as Cloud Support Engineer at CloudMile 
+- Currently don't have a job, but I'm developing something. 
 - Experience with GCP, Python, App develop, Networking
 - Assisting customers in troubleshooting Google Cloud services and Google Workspace, providing clear information to clients on product features, functionality, and best practices.
 
