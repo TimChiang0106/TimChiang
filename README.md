@@ -5,7 +5,6 @@
   Current Role
 </h2>
 
-- Cloud Support Engineer at [Ubitus](https://ubitus.net/about/)
 - Founder and Developer at [Graholder](https://graholder.com/about-us)
 
 <h2>
